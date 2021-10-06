@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projects.iml" filepath="$PROJECT_DIR$/.idea/Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-backend/book-api/book-api.iml" filepath="$PROJECT_DIR$/java-backend/book-api/book-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-backend/word-count/word-count.iml" filepath="$PROJECT_DIR$/java-backend/word-count/word-count.iml" />
+    </modules>
+  </component>
+</project>
